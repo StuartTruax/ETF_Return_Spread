@@ -1,0 +1,49 @@
+<h3> Starting date for Analysis (t0): 1995-03-01 </h3>
+<h3> Fitted CAGR of the SPY ETF: 6.038312% </h3>
+Selected ETFs by Spreads above CAGR of SPY
+<table style="width:100%">
+<tr>
+<th> ETF Symbol </th>
+<th> CAGR </th>
+<th> Spread over SPY CAGR </th>
+<tr>
+<td>SLYV</td>
+<td>9.354648%</td>
+<td>3.316336%</td>
+</tr>
+<tr>
+<td>SPY</td>
+<td>6.038312%</td>
+<td>0.000000%</td>
+</tr>
+<tr>
+<td>SMLV</td>
+<td>8.723076%</td>
+<td>2.684764%</td>
+</tr>
+<tr>
+<td>SPYG</td>
+<td>7.439041%</td>
+<td>1.400729%</td>
+</tr>
+<tr>
+<td>XLE</td>
+<td>7.679483%</td>
+<td>1.641171%</td>
+</tr>
+<tr>
+<td>SLYG</td>
+<td>9.962655%</td>
+<td>3.924343%</td>
+</tr>
+<tr>
+<td>MDY</td>
+<td>9.320344%</td>
+<td>3.282032%</td>
+</tr>
+<tr>
+<td>XLU</td>
+<td>7.480627%</td>
+<td>1.442315%</td>
+</tr>
+</table>
